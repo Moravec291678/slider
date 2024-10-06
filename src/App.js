@@ -1,7 +1,7 @@
 import OneMovieSlider from "./components/OneMovieSlider"
 function App() {
   return (
-   <div>
+   <div className="slider">
     <OneMovieSlider></OneMovieSlider>
    </div>
   )
